@@ -24,7 +24,8 @@ class _HomeScreenState extends State<HomeScreen> {
     title:  const Text("Flutter Weather",),
     centerTitle: false,
     elevation: 5,
-}
+    })),
+    );
 }
 }
 
